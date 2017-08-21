@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantrzchan/liri-node-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantrzchan/liri-node-bot/issues"
+  },
+  "homepage": "https://github.com/grantrzchan/liri-node-bot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "spotify-web-api-node": "^2.4.0"
+  }
+}
